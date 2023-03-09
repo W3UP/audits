@@ -11,7 +11,7 @@
 
 ### 🔗 Audits Links:
 
-- ***Soon***: https://
+- ***Techrate***: (Audit by Techrate)[./Techrate_W3UP.pdf]
 - ***Soon***: https://
 - ***Soon***: https://
 - ***Soon***: https://
